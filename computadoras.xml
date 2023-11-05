@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<computadoras>
+    <computadora>
+        <procesador>Core i3 1000U</procesador>
+        <memoria_ram>8 GB</memoria_ram>
+        <disco_duro>Kingston 1 TB</disco_duro>
+        <placa_madre>Intel B760</placa_madre>
+        <gabinete>Invader</gabinete>
+    </computadora>
+
+    <computadora>
+        <procesador>Core i5 7500</procesador>
+        <memoria_ram>16 GB</memoria_ram>
+        <disco_duro>Seagate 2 TB</disco_duro>
+        <placa_madre>ASUS H270</placa_madre>
+        <gabinete>Corsair 200R</gabinete>
+    </computadora>
+
+    <computadora>
+        <procesador>Pentium Gold G5400</procesador>
+        <memoria_ram>4 GB</memoria_ram>
+        <disco_duro>Western Digital 500 GB</disco_duro>
+        <placa_madre>MSI B360M</placa_madre>
+        <gabinete>Thermaltake Versa H15</gabinete>
+    </computadora>
+
+    <computadora>
+        <procesador>Ryzen 7 5800X</procesador>
+        <memoria_ram>32 GB</memoria_ram>
+        <disco_duro>Samsung 1 TB NVMe SSD</disco_duro>
+        <placa_madre>ASRock X570 Taichi</placa_madre>
+        <gabinete>NZXT H510i</gabinete>
+    </computadora>
+
+    <computadora>
+        <procesador>Core i7 10700K</procesador>
+        <memoria_ram>64 GB</memoria_ram>
+        <disco_duro>Crucial MX500 2 TB SSD</disco_duro>
+        <placa_madre>Gigabyte Z490 Aorus Master</placa_madre>
+        <gabinete>Fractal Design Meshify C</gabinete>
+    </computadora>
+
+    <computadora>
+        <procesador>Ryzen 5 3600</procesador>
+        <memoria_ram>16 GB</memoria_ram>
+        <disco_duro>SanDisk 480 GB SSD</disco_duro>
+        <placa_madre>MSI B450 Tomahawk Max</placa_madre>
+        <gabinete>Cooler Master MasterBox Q300L</gabinete>
+    </computadora>
+
+    <computadora>
+        <procesador>Core i9 11900K</procesador>
+        <memoria_ram>128 GB</memoria_ram>
+        <disco_duro>Crucial P5 2 TB NVMe SSD</disco_duro>
+        <placa_madre>ASUS ROG Maximus XIII Hero</placa_madre>
+        <gabinete>Phanteks Eclipse P500A</gabinete>
+    </computadora>
+
+    <computadora>
+        <procesador>Athlon 3000G</procesador>
+        <memoria_ram>8 GB</memoria_ram>
+        <disco_duro>Toshiba 1 TB HDD</disco_duro>
+        <placa_madre>ASRock B450M-HDV</placa_madre>
+        <gabinete>Corsair Carbide 100R</gabinete>
+    </computadora>
+
+    <computadora>
+        <procesador>Ryzen 9 5950X</procesador>
+        <memoria_ram>64 GB</memoria_ram>
+        <disco_duro>Samsung 2 TB SATA SSD</disco_duro>
+        <placa_madre>MSI MAG B550 Tomahawk</placa_madre>
+        <gabinete>NZXT H710i</gabinete>
+    </computadora>
+
+    <computadora>
+        <procesador>Core i7 9700K</procesador>
+        <memoria_ram>32 GB</memoria_ram>
+        <disco_duro>Western Digital 4 TB HDD</disco_duro>
+        <placa_madre>ASUS Prime Z390-A</placa_madre>
+        <gabinete>Lian Li PC-O11 Dynamic</gabinete>
+    </computadora>
+</computadoras>
